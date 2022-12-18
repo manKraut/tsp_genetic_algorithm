@@ -1,5 +1,5 @@
 # tsp_genetic_algorithm
-A Genetic Algorithm to solve the Travelling Salesperson Problem. Packed in an app and ready to be downloaded and install locally.
+A Genetic Algorithm to solve the Travelling Salesperson Problem packed in an app. 
 
 
 ## Instructions for use
